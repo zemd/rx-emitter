@@ -2,7 +2,7 @@
 
 Simple emitter based on Rx.Subject.
 
-[![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://badge.fury.io/js/rx-emitter)
+[![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://www.npmjs.com/package/rx-emitter)
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
 [![Code Climate](https://codeclimate.com/github/zemd/rx-emitter/badges/gpa.svg)](https://codeclimate.com/github/zemd/rx-emitter)
 [![CircleCI](https://circleci.com/gh/zemd/rx-emitter/tree/master.svg?style=svg)](https://circleci.com/gh/zemd/rx-emitter/tree/master)
