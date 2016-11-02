@@ -2,6 +2,9 @@
 
 Simple emitter based on Rx.Subject.
 
+[![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
+[![Code Climate](https://codeclimate.com/github/zemd/rx-emitter/badges/gpa.svg)](https://codeclimate.com/github/zemd/rx-emitter)
+
 ## Usage
 
 ```javascript
