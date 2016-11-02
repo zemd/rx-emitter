@@ -1,0 +1,25 @@
+{
+  "name": "rx-emitter",
+  "version": "1.0.0",
+  "description": "Simple emitter built on top of Rx Observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "rx": "4.1.0"
+  },
+  "devDependencies": {
+    "ava": "0.16.0"
+  }
+}
