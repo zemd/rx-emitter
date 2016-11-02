@@ -53,7 +53,6 @@ app.subscribe('loaded', () => {
 ```
 
 ## License
--------
 Rx-Emitter is released under the Apache 2.0 license.
 
 [pull-request]: https://github.com/zemd/rx-emitter/pull/new/master
