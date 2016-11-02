@@ -73,4 +73,8 @@ app.subscribe('loaded', () => {
 ## License
 Rx-Emitter is released under the Apache 2.0 license.
 
-[![gitcheese.com](https://api.gitcheese.com/v1/projects/22444f9f-460b-4d48-8fc4-a185328f4d0e/badges)](https://www.gitcheese.com/app/#/projects/22444f9f-460b-4d48-8fc4-a185328f4d0e/pledges/create)
+## Donate
+
+[![](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/red_rabbit)
+[![](https://img.shields.io/badge/flattr-donate-yellow.svg)](https://flattr.com/profile/red_rabbit)
+
