@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/zemd/rx-emitter"
   },
   "author": "Dmitry Zelenetskiy <dmitry.zelenetskiy@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/zemd/rx-emitter/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/zemd/rx-emitter",
   "dependencies": {
     "rx": "4.1.0"
   },
