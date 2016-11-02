@@ -2,8 +2,23 @@
 
 Simple emitter based on Rx.Subject.
 
+[![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://badge.fury.io/js/rx-emitter)
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
 [![Code Climate](https://codeclimate.com/github/zemd/rx-emitter/badges/gpa.svg)](https://codeclimate.com/github/zemd/rx-emitter)
+[![CircleCI](https://circleci.com/gh/zemd/rx-emitter/tree/master.svg?style=svg)](https://circleci.com/gh/zemd/rx-emitter/tree/master)
+
+
+## Installation
+
+```sh
+npm install rx-emitter
+```
+
+or
+
+```sh
+yarn add rx-emitter
+```
 
 ## Usage
 
@@ -58,4 +73,4 @@ app.subscribe('loaded', () => {
 ## License
 Rx-Emitter is released under the Apache 2.0 license.
 
-[pull-request]: https://github.com/zemd/rx-emitter/pull/new/master
+[![gitcheese.com](https://api.gitcheese.com/v1/projects/22444f9f-460b-4d48-8fc4-a185328f4d0e/badges)](https://www.gitcheese.com/app/#/projects/22444f9f-460b-4d48-8fc4-a185328f4d0e/pledges/create)
