@@ -6,7 +6,8 @@ Simple emitter based on Rx.Subject.
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
 [![Code Climate](https://codeclimate.com/github/zemd/rx-emitter/badges/gpa.svg)](https://codeclimate.com/github/zemd/rx-emitter)
 [![CircleCI](https://circleci.com/gh/zemd/rx-emitter/tree/master.svg?style=svg)](https://circleci.com/gh/zemd/rx-emitter/tree/master)
-
+[![dependencies:?](https://img.shields.io/david/zemd/rx-emitter.svg)](https://david-dm.org/zemd/rx-emitter)
+[![devDependencies:?](https://img.shields.io/david/dev/zemd/rx-emitter.svg?style=flat)](https://david-dm.org/zemd/rx-emitter)
 
 ## Installation
 
