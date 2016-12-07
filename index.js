@@ -1,6 +1,6 @@
 'use strict';
 
-const Rx = require('rx');
+const Rx = require('rxjs');
 
 // private store for all subjects
 const subjects = new WeakMap();
@@ -37,7 +37,7 @@ class Emitter {
 
   publish(name, data) {
     let subj = getSubject(this, name);
-    subj.onNext(data);
+    subj.next(data);
     return this;
   }
 }

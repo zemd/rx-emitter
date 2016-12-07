@@ -1,6 +1,6 @@
 {
   "name": "rx-emitter",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Simple emitter built on top of Rx Observables",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zemd/rx-emitter",
   "dependencies": {
-    "rx": "4.1.0"
+    "rxjs": "5.0.0-rc.5"
   },
   "devDependencies": {
     "ava": "0.16.0"

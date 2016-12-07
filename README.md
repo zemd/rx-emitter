@@ -1,6 +1,6 @@
 # Rx-Emitter
 
-Simple emitter based on Rx.Subject.
+Simple emitter based on Rx.Subject. **Version 2** is based on rxjs v5+
 
 [![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://www.npmjs.com/package/rx-emitter)
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
@@ -12,13 +12,13 @@ Simple emitter based on Rx.Subject.
 ## Installation
 
 ```sh
-npm install rx-emitter
+npm install rx-emitter@next
 ```
 
 or
 
 ```sh
-yarn add rx-emitter
+yarn add rx-emitter@next
 ```
 
 ## Usage
