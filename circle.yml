@@ -1,6 +1,8 @@
 machine:
   node:
-    version: 6.8.1
+    version:
+      - 6.8.1
+      - 7.6.0
 dependencies:
   cache_directories:
     - "node_modules"

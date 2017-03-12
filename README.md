@@ -1,9 +1,6 @@
 # Rx-Emitter
 
-Simple emitter based on Rx.Subject.
-
-To leverage RxJS 5 use `@next` version of this package. `npm install rx-emitter@next`. All code is stored in v2.x branch
-https://github.com/zemd/rx-emitter/tree/v2.x
+Simple emitter based on Rx.Subject. **Version 2** is based on rxjs 5+
 
 [![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://www.npmjs.com/package/rx-emitter)
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)

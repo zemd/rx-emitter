@@ -3,7 +3,7 @@
 const test = require('ava');
 
 const Emitter = require('../');
-const Rx = require('rx');
+const Rx = require('rxjs/Rx');
 
 test.cb('Subscribe method returns data passed to the publish', t => {
   t.plan(1);
