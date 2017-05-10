@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/zemd/rx-emitter",
   "dependencies": {
-    "rxjs": "^5.2.0"
+    "rxjs": "^5.4.0"
   },
   "devDependencies": {
     "ava": "0.19.1"
