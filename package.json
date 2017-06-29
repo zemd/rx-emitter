@@ -20,6 +20,6 @@
     "rxjs": "^5.4.0"
   },
   "devDependencies": {
-    "ava": "0.19.1"
+    "ava": "0.20.0"
   }
 }
