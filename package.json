@@ -44,5 +44,10 @@
     "require": [
       "babel-register"
     ]
+  },
+  "babel": {
+    "presets": [
+      "@ava/stage-4"
+    ]
   }
 }
