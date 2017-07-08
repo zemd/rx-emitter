@@ -1,9 +1,8 @@
 'use strict';
 
-const test = require('ava');
-
-const Emitter = require('../');
-const Rx = require('rxjs/Rx');
+import test from 'ava';
+import Emitter from '../';
+import Rx from 'rxjs/Rx';
 
 test.cb('Subscribe method returns data passed to the publish', t => {
   t.plan(1);

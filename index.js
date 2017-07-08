@@ -1,6 +1,6 @@
 'use strict';
 
-const Rx = require('rxjs/Rx');
+import { Subject } from 'rxjs/Subject';
 
 // private store for all subjects
 const subjects = new WeakMap();
@@ -8,7 +8,7 @@ const configs = new WeakMap();
 
 const createSubject = (context, key) => {
   const conf = configs.get(context);
-  return typeof conf[key] === 'function' ? conf[key]() : new Rx.Subject();
+  return typeof conf[key] === 'function' ? conf[key]() : new Subject();
 };
 
 const getSubject = (context, key) => {
@@ -21,7 +21,6 @@ const getSubject = (context, key) => {
 };
 
 class Emitter {
-
   constructor(config) {
     subjects.set(this, Object.create(null));
     configs.set(this, config || {});
@@ -42,4 +41,4 @@ class Emitter {
   }
 }
 
-module.exports = Emitter;
+export default Emitter;

@@ -2,9 +2,13 @@
 .gitignore
 .eslintrc
 .travis.yml
+circle.yml
 *.log
 bench/*
 coverage/*
 test/*
 tmp/*
 .idea
+rollup.config.browser.es5.js
+rollup.config.cjs.es5.js
+rollup.config.cjs.es6.js

@@ -1,6 +1,6 @@
 # Rx-Emitter
 
-Simple emitter based on Rx.Subject. **Version 2** is based on rxjs 5+
+Simple emitter based on Rx.Subject. **Version 2+** is based on rxjs 5+
 
 [![npm version](https://badge.fury.io/js/rx-emitter.svg)](https://www.npmjs.com/package/rx-emitter)
 [![Build Status](https://travis-ci.org/zemd/rx-emitter.svg?branch=master)](https://travis-ci.org/zemd/rx-emitter)
@@ -24,6 +24,10 @@ yarn add rx-emitter
 ## Usage
 
 ```javascript
+import Emitter from 'rx-emitter';
+// or
+// const Emitter =  require('rx-emitter);
+
 class Application extends Emitter {
 }
 
